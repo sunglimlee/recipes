@@ -1,0 +1,4 @@
+This is kimchi receipt. Whoever see this receipt, can use this one anytime.
+Thanks for the sharing this receipt with Git. 
+If anyone who still doesn't know how to use Git, please refer to your instructor at school or company you attend. They will tell you how to use Git and how to pull and push the commit between GitHub & your local repository.
+Thanks. Steve Lee
